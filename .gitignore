@@ -1,0 +1,14 @@
+# Node.js
+node_modules/
+dist/
+.env
+npm-debug.log*
+yarn-error.log*
+bun.lockb
+package-lock.json
+
+# Tailwind CSS build output
+assets/css/tailwind.output.css
+
+# Vercel
+.vercel/
